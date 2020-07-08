@@ -14,8 +14,9 @@
 </ul>
 
 <p>Trabalhando na transformação da vida através da tecnologia.</p>
-<a href="www.linkedin.com/in/maxuel-reis-januario">LinkedIn</a>
-
+<h2>
+  <a href="www.linkedin.com/in/maxuel-reis-januario">LinkedIn</a>
+</h2>
 <h2>
   <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Certificate/SVG/ic_fluent_certificate_24_regular.svg?raw=true">
   Formação Acadêmica
