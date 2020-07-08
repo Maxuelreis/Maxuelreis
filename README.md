@@ -15,12 +15,25 @@
 
 <p>Trabalhando na transformação da vida através da tecnologia.</p>
 <h2>
+  <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_linkedin-sign.svg" width="4%">
   <a href="https://www.linkedin.com/in/maxuel-reis-januario">LinkedIn</a>
 </h2>
+
+<h2>
+  <img  src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_facebook-sign.svg" width="4%">
+  <a href="https://www.facebook.com/maxuel.reis.1">Facebook</a>
+</h2>
+
+<h2>
+  <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_twitter-sign.svg" width="4%">
+  <a href="https://twitter.com/MaxuelReis1">Twitter</a>
+</h2>
+
 <h2>
   <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Certificate/SVG/ic_fluent_certificate_24_regular.svg?raw=true">
   Formação Acadêmica
 </h2>
+
 <ul>
   <li>Cursando Pós-Graduação em Engenharia de software, pela universidade Estácio de Sá.</li>
   <li>Graduado em Análise e desenvolvimento de sistemas, pela universidade Estácio de Sá, no ano de 2019.</li>
