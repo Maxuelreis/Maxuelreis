@@ -16,27 +16,33 @@
 <p>Trabalhando na transformação da vida através da tecnologia.</p>
 <a href="www.linkedin.com/in/maxuel-reis-januario">LinkedIn</a>
 
-## Formação Acadêmica:
+<h2>
+  <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Certificate/SVG/ic_fluent_certificate_24_regular.svg?raw=true">
+  Formação Acadêmica
+</h2>
 <ul>
   <li>Cursando Pós-Graduação em Engenharia de software, pela universidade Estácio de Sá.</li>
   <li>Graduado em Análise e desenvolvimento de sistemas, pela universidade Estácio de Sá, no ano de 2019.</li>
+</ul>
 
-## Stack: 
-
+<h2>
+  <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Magic%20Wand/SVG/ic_fluent_magic_wand_24_regular.svg?raw=true">
+  Stack: 
+</h2>
 <ul>
-<li>HTML5</li>
-<li>CSS3</li>
-<li>JavaScript</li>
-<li>Nodejs</li>
-<li>Conhecimento em git</li>
-<li>GitHub</li>
-<li>Básico terminal Linux,</li> 
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Nodejs</li>
+  <li>Conhecimento em git</li>
+  <li>GitHub</li>
+  <li>Básico terminal Linux,</li> 
+</ul>
 
 
-## Idiomas:
+<h2>
+  <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Chat/SVG/ic_fluent_chat_28_regular.svg?raw=true">
+  Idiomas:
+ </h2>
 
 <p>Ingles para leitura</p>
-
-
-
-
