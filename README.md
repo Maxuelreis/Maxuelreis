@@ -22,6 +22,7 @@
   <li>Graduado em Análise e desenvolvimento de sistemas, pela universidade Estácio de Sá, no ano de 2019.</li>
 
 ## Stack: 
+
 <ul>
 <li>HTML5</li>
 <li>CSS3</li>
@@ -33,6 +34,7 @@
 
 
 ## Idiomas:
+
 <p>Ingles para leitura</p>
 
 
