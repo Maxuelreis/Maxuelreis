@@ -42,7 +42,7 @@
 </ul>
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca" width="50px" hight="50px">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca" width="30px" hight="30px">
   Stack: 
 </h2>
 <ul>
