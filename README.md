@@ -3,7 +3,8 @@
 </h3>
 
 <p align="center">
- <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFTRMfiez3F1Q/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=Ka-zZK04T_yfzBCNf_uipbeLQSar2tgELNniHrRLv10">
+  <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg">
+ <!--<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFTRMfiez3F1Q/profile-displayphoto-shrink_200_200/0?e=1599696000&v=beta&t=Ka-zZK04T_yfzBCNf_uipbeLQSar2tgELNniHrRLv10"> -->
 </p>  
 
 ## Maxuel Reis Januário
