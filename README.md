@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://br.freepik.com/vetores-gratis/astronauta-fofo-comendo-hamburguer-dos-desenhos-animados-icone-ilustracao-vetorial-space-food-icon_10411778.htm#page=3&query=astronaut&position=18" width="200px" height="200px">
+  <img src=" " width="200px" height="200px">
 </p>  
 
 ## Maxuel Reis Januário
