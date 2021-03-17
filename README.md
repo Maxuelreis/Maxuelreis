@@ -42,7 +42,7 @@
 </ul>
 
 <h2>
-  <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Magic%20Wand/SVG/ic_fluent_magic_wand_24_regular.svg?raw=true">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca">
   Stack: 
 </h2>
 <ul>
