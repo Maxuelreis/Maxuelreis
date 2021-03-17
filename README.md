@@ -1,4 +1,4 @@
-<h1 align="right">
+<h1 align="left">
   <b>Hello world</b>
 </h1>
 
