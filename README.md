@@ -1,12 +1,12 @@
-<div>
+
   <h1 align="left">
-  <b>Hello world</b>
-</h1>
+    <b>Hello world</b>
+  </h1>
 
 <p align="center">
   <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/1988.jpg" width="200px" height="200px">
 </p>  
-</div>
+
 ## Maxuel Reis Januário
 <ul type="none">
   <li>38 anos,</li>
