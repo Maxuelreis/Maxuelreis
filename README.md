@@ -48,11 +48,14 @@
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JavaScript</li>
-  <li>Nodejs</li>
   <li>Conhecimento em git</li>
   <li>GitHub</li>
   <li>Básico terminal Linux,</li> 
 </ul>
+<p>
+  Interessado no desenvolvimento web fullstack, estou estudando a stack MERN, me qualificando para oportunidades de trabalho.<br>
+  Alem disto tenho como hobby e paixão a música onde uso como momento de descompressão o saxofone e o fiel amigo violão.
+</p>
 
 
 <h2>
