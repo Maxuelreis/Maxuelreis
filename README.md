@@ -32,7 +32,7 @@
 </h3>
 
 <h2>
-  <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Certificate/SVG/ic_fluent_certificate_24_regular.svg?raw=true">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2611/2611963.svg?token=exp=1616026271~hmac=ca11d94048a07ecac91eebfa38b0ff17" width="30px" hight="30px">
   Formação Acadêmica
 </h2>
 
