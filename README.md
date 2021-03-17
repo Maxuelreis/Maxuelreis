@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg" width="10px" height="10px">
+  <img src="https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg" width="300px" height="300px">
 </p>  
 
 ## Maxuel Reis Januário
