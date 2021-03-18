@@ -4,7 +4,7 @@
   </h1>
 
 <p align="center">
-  <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/1988.jpg" width="200px" height="200px">
+  <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/4140038-removebg-preview.png?raw=true" width="200px" height="200px">
 </p>  
 
 ## Maxuel Reis Januário
