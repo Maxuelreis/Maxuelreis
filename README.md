@@ -2,7 +2,7 @@
   <h1 align="left">
     <b>Hello world!!!</b>
   </h1>
-<div backgroundcolor="lightgray">
+<div color="lightgray">
 <p align="center">
   <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/4140038-removebg-preview.png?raw=true" width="200px" height="200px">
 </p>
