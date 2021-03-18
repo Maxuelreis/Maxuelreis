@@ -45,7 +45,7 @@
   <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca" width="30em" hight="30em">
   Stack: 
 </h2>
-<ul>
+<ul type="none">
   <li><img src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" width="3%"> HTML5</li>
   <li><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="2.5%"> CSS3</li>
   <li><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png" width="2.5%"> JavaScript</li>
