@@ -64,4 +64,4 @@
   Idiomas:
  </h2>
 
-<p>Ingles para leitura</p>
+<p>* Ingles para leitura</p>
