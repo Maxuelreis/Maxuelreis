@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/4140038-removebg-preview.png?raw=true" width="200px" height="200px">
 </p>
-<div color="gray" width="100px" hight="30px"></div>
 
 <h1> Maxuel Reis Januário</h1>
 <ul type="none">
