@@ -17,20 +17,15 @@
 
 <p>Trabalhando na transformação da vida através da tecnologia.</p>
 
-<h3>
   <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_linkedin-sign.svg" width="2%">
   <a href="https://www.linkedin.com/in/maxuel-reis-januario">LinkedIn</a>
-</h3>
 
-<h3>
   <img  src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_facebook-sign.svg" width="2%">
   <a href="https://www.facebook.com/maxuel.reis.1">Facebook</a>
-</h3>
 
-<h3>
   <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_twitter-sign.svg" width="2%">
   <a href="https://twitter.com/MaxuelReis1">Twitter</a>
-</h3>
+
 
 <h2>
   <img src="https://www.flaticon.com/svg/vstatic/svg/2611/2611963.svg?token=exp=1616026271~hmac=ca11d94048a07ecac91eebfa38b0ff17" width="30em" hight="30em">
