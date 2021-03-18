@@ -25,6 +25,11 @@
 
   <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_twitter-sign.svg" width="2%">
   <a href="https://twitter.com/MaxuelReis1">Twitter</a>
+  
+  <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_twitter-sign.svg" width="2%">
+  <a href="<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409946.svg?token=exp=1616077814~hmac=24776bef145c7fa5e6eb4d663392ac73" width="2%">
+  <a href="https://twitter.com/MaxuelReis1">Twitter</a>">Instagran</a>
+  
 </h3>
 
 <h2>
