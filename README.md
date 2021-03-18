@@ -26,10 +26,6 @@
   <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_twitter-sign.svg" width="2%">
   <a href="https://twitter.com/MaxuelReis1">Twitter</a>
   
-  <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_twitter-sign.svg" width="2%">
-  <a href="https://twitter.com/MaxuelReis1">Twitter</a>
-  
-  
   <img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-256.png" width="2%">
   <a href="https://www.instagram.com/max_rjanuario/">Instagran</a>
   
