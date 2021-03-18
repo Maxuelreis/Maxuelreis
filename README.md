@@ -60,7 +60,7 @@
 
 
 <h2>
-  <img src="https://github.com/microsoft/fluentui-system-icons/blob/master/assets/Chat/SVG/ic_fluent_chat_28_regular.svg?raw=true">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/3220/3220604.svg?token=exp=1616029024~hmac=c985def631016f6ea887d059e1cddc6f">
   Idiomas:
  </h2>
 
