@@ -16,7 +16,7 @@
 
 <p>Trabalhando na transformação da vida através da tecnologia.</p>
 
-<h3>
+<nav>
   <img src="https://github.com/shalinguyen/socialicious/blob/master/svg/icon_linkedin-sign.svg" width="2%">
   <a href="https://www.linkedin.com/in/maxuel-reis-januario">LinkedIn</a>
 
@@ -29,7 +29,7 @@
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" width="2%">
   <a href="https://www.instagram.com/max_rjanuario/">Instagran</a>
   
-</h3>
+</nav>
 
 <h2>
   <img src="https://www.flaticon.com/svg/vstatic/svg/2611/2611963.svg?token=exp=1616026271~hmac=ca11d94048a07ecac91eebfa38b0ff17" width="30em" hight="30em">
