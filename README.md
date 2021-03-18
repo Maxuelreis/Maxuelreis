@@ -2,11 +2,11 @@
   <h1 align="left">
     <b>Hello world!!!</b>
   </h1>
-<div color="lightgray">
+
 <p align="center">
   <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/4140038-removebg-preview.png?raw=true" width="200px" height="200px">
 </p>
-</div>
+<div color="lightgray" width="100%" hight="30%"></div>
 
 <h1> Maxuel Reis Januário</h1>
 <ul type="none">
