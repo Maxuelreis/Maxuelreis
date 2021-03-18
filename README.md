@@ -2,10 +2,11 @@
   <h1 align="left">
     <b>Hello world!!!</b>
   </h1>
-
+<div backgroundcolor="lightgray">
 <p align="center">
   <img src="https://github.com/Maxuelreis/Maxuelreis/blob/master/4140038-removebg-preview.png?raw=true" width="200px" height="200px">
-</p>  
+</p>
+</div>
 
 ## Maxuel Reis Januário
 <ul type="none">
@@ -32,7 +33,7 @@
 </h3>
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/2611/2611963.svg?token=exp=1616026271~hmac=ca11d94048a07ecac91eebfa38b0ff17" width="30px" hight="30px">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/2611/2611963.svg?token=exp=1616026271~hmac=ca11d94048a07ecac91eebfa38b0ff17" width="30em" hight="30em">
   Formação Acadêmica
 </h2>
 
@@ -42,7 +43,7 @@
 </ul>
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca" width="30px" hight="30px">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca" width="30em" hight="30em">
   Stack: 
 </h2>
 <ul>
@@ -60,7 +61,7 @@
 
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/3220/3220604.svg?token=exp=1616029024~hmac=c985def631016f6ea887d059e1cddc6f" width="30" hight="30">
+  <img src="https://www.flaticon.com/svg/vstatic/svg/3220/3220604.svg?token=exp=1616029024~hmac=c985def631016f6ea887d059e1cddc6f" width="30em" hight="30em">
   Idiomas:
  </h2>
 
