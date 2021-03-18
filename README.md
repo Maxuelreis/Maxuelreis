@@ -46,12 +46,12 @@
   Stack: 
 </h2>
 <ul>
-  <li><img src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" width="5%">HTML5</li>
-  <li><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="5%">CSS3</li>
-  <li><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png" width="5%">JavaScript</li>
-  <li><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" width="5%">Git</li>
-  <li><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png" width="5%">GitHub</li>
-  <li><img src="https://cdn3.iconfinder.com/data/icons/classic-icons-1/256/10.png" width="5%">Básico terminal Linux,</li> 
+  <li><img src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" width="3%">HTML5</li>
+  <li><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" width="3%">CSS3</li>
+  <li><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-128.png" width="3%">JavaScript</li>
+  <li><img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" width="3%">Git</li>
+  <li><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png" width="3%">GitHub</li>
+  <li><img src="https://cdn3.iconfinder.com/data/icons/classic-icons-1/256/10.png" width="3%">Básico terminal Linux,</li> 
 </ul>
 <p>
   Interessado no desenvolvimento web fullstack, estou estudando a stack MERN, me qualificando para oportunidades de trabalho.<br>
