@@ -46,10 +46,10 @@
   Stack: 
 </h2>
 <ul>
-  <li>HTML5</li>
+  <li>HTML5 <img src="https://cdn0.iconfinder.com/data/icons/HTML5/256/HTML_Logo.png" width="2%"></li>
   <li>CSS3</li>
   <li>JavaScript</li>
-  <li>Conhecimento em git</li>
+  <li>Git</li>
   <li>GitHub</li>
   <li>Básico terminal Linux,</li> 
 </ul>
