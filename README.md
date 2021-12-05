@@ -36,7 +36,7 @@
 </h2>
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/2611/2611963.svg?token=exp=1616026271~hmac=ca11d94048a07ecac91eebfa38b0ff17" width="30em" hight="30em">
+  <img src="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#:~:text=%3Awoman_office_worker%3A" width="30em" hight="30em">
   Formação Acadêmica
 </h2>
 
