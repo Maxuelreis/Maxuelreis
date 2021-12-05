@@ -36,7 +36,7 @@
 </h2>
 
 <h2>
-  <img src="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#:~:text=%3Awoman_office_worker%3A" width="30em" hight="30em">
+  <img src=":office_worker:" width="30em" hight="30em">
   Formação Acadêmica
 </h2>
 
