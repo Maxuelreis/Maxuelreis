@@ -36,7 +36,7 @@
 </h2>
 
 <h2>
-  <img src=":office_worker:" width="30em" hight="30em">
+  <img src="https://icons8.com.br/illustrations/illustration/handy-machine-learning" width="30em" hight="30em">
   Formação Acadêmica
 </h2>
 
