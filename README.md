@@ -64,8 +64,8 @@
 
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/3220/3220604.svg?token=exp=1616029024~hmac=c985def631016f6ea887d059e1cddc6f" width="30em" hight="30em">
+  <img src="https://user-images.githubusercontent.com/36297527/144765317-e0ccd8d2-e9fb-425d-afe2-34551c4b1dc5.png" width="30em" hight="30em">
   Idiomas:
  </h2>
 
-<p>* Ingles básico</p>
+<p>* Ingles leitura</p>
