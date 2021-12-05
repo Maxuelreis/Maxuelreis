@@ -46,7 +46,7 @@
 </ul>
 
 <h2>
-  <img src="https://www.flaticon.com/svg/vstatic/svg/4253/4253305.svg?token=exp=1616025768~hmac=74aacc7c93cc91b1ed20ea8ba86c00ca" width="30em" hight="30em">
+  <img src="https://user-images.githubusercontent.com/36297527/144765173-4440b13b-9c19-4238-9f11-9a94b8a4b5c7.png" width="30em" hight="30em">
   Stack: 
 </h2>
 <ul type="none">
